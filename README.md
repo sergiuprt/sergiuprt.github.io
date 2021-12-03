@@ -10,7 +10,8 @@
 &ensp;<a href="https://github.com/sergiuprt"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/untitled-2_5.png" title="GitHub" alt="GitHub" width="30"/></a>
 <br>
 
-PHP Developer 🧑‍💻 Learning web development every day⌨️ Tech, Linux and Science enthusiast!🔬🔭
+PHP Developer 🧑‍💻 Learning web development every day⌨️
+Tech, Linux and Science enthusiast!🔬🔭
 
 I have worked from 2019 to 2021 as a System Adminitrator.
 
