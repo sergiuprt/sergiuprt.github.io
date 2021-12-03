@@ -14,7 +14,7 @@ PHP Developer 🧑‍💻 Learning web development every day⌨️ Tech, Linux a
 
 I have worked from 2019 to 2021 as a System Adminitrator.
 
-Learning and building with [Laravel](https://laravel.com/) since June 2021, building and testing localy with Dowcker and Sail.
+Learning and building with [Laravel](https://laravel.com/) since June 2021, building and testing localy with Docker and Sail.
 ___
 
 
