@@ -7,7 +7,6 @@
 &ensp;<a href="https://www.instagram.com/sergiu.ldvprj"><img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" title="Instagram" alt="Instagram Account" width="30"/></a>
 &ensp;<a href="https://dev.to/sergiuprt"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEVto Blog" width="30"/></a>
 &ensp;<a href="https://spruteanu.com"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="30"/></a>
-&ensp;<a href="https://github.com/sergiuprt"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/untitled-2_5.png" title="GitHub" alt="GitHub" width="30"/></a>
 <br>
 
 PHP Developer 🧑‍💻 Learning web development every day⌨️
