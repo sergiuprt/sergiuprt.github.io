@@ -15,6 +15,7 @@ Tech, Linux and Science enthusiast!🔬🔭
 I have worked from 2019 to 2021 as a System Adminitrator.
 
 Learning and building with [Laravel](https://laravel.com/) since June 2021, testing localy with Docker and Sail.
+
 Currently working on [spruteanu.com](https://spruteanu.com)
 ___
 
