@@ -1,7 +1,3 @@
-## Hi there 👋 I'm Sergiu!
+## Personal webpage.
 
-<!-- Actual text -->
-
-PHP Developer 🧑‍💻 Learning web development every day⌨️
-<br>
-Tech, Linux and Science enthusiast!🔬🔭
+There will be other features added in the near future.
